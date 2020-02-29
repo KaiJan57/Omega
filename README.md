@@ -1,3 +1,5 @@
+## This fork adds [ulab](https://github.com/v923z/micropython-ulab) to Omega.
+
 <p align="center"><img src="https://github.com/Omega-Numworks/Omega-Design/blob/master/Omega-Banner.png" /></p>
 
 <p align="center">
