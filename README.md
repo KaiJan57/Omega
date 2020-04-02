@@ -1,4 +1,6 @@
-## This fork adds [ulab](https://github.com/v923z/micropython-ulab) to Omega.
+## This fork has a branch that...
+- updates micropython to 1.12 ([branch](https://github.com/KaiJan57/Omega/tree/omega-mp1.12))
+- adds [ulab](https://github.com/v923z/micropython-ulab) ([branch](https://github.com/KaiJan57/Omega/tree/omega-ulab))
 
 <p align="center"><img src="https://github.com/Omega-Numworks/Omega-Design/blob/master/Omega-Banner.png" /></p>
 
